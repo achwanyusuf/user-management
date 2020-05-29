@@ -1,0 +1,77 @@
+{"level":"info","msg":"Loading env","time":"2020-04-16T23:08:50+07:00"}
+{"level":"info","msg":"[]","time":"2020-04-16T23:09:50+07:00"}
+{"level":"info","msg":"[123 10 9 34 101 109 97 105 108 34 58 32 34 97 99 104 119 97 110 46 121 117 115 117 102 64 103 109 97 105 108 46 99 111 109 34 44 10 9 34 112 97 115 115 119 111 114 100 34 58 32 34 49 50 51 52 53 54 55 56 34 10 125]","time":"2020-04-16T23:10:34+07:00"}
+{"level":"info","msg":"Loading env","time":"2020-04-16T23:17:20+07:00"}
+{"level":"info","msg":"[]","time":"2020-04-16T23:17:23+07:00"}
+{"level":"info","msg":"Loading env","time":"2020-04-16T23:18:11+07:00"}
+{"level":"info","msg":"{\n\t\"email\": \"achwan.yusuf@gmail.com\",\n\t\"password\": \"12345678\"\n}","time":"2020-04-16T23:18:14+07:00"}
+{"level":"info","msg":"Loading env","time":"2020-04-16T23:22:57+07:00"}
+{"level":"info","msg":"[]","time":"2020-04-16T23:23:03+07:00"}
+{"level":"info","msg":"Loading env","time":"2020-04-16T23:26:41+07:00"}
+{"level":"info","msg":"{achwan.yusuf@gmail.com 12345678}","time":"2020-04-16T23:26:44+07:00"}
+{"level":"info","msg":"Loading env","time":"2020-04-16T23:33:52+07:00"}
+{"level":"info","msg":"Loading env","time":"2020-04-16T23:50:58+07:00"}
+{"level":"info","msg":"Loading env","time":"2020-04-16T23:54:49+07:00"}
+{"level":"info","msg":"Loading env","time":"2020-04-17T00:05:09+07:00"}
+{"level":"info","msg":"Loading env","time":"2020-04-17T00:07:10+07:00"}
+{"level":"info","msg":"Loading env","time":"2020-04-17T00:12:40+07:00"}
+{"level":"info","msg":"Loading env","time":"2020-04-17T00:21:48+07:00"}
+{"level":"info","msg":"Loading env","time":"2020-04-17T00:25:55+07:00"}
+{"level":"info","msg":"Loading env","time":"2020-04-17T00:32:25+07:00"}
+{"level":"info","msg":"[Bearer jhdshhjsdhjdshjdshj]","time":"2020-04-17T00:32:29+07:00"}
+{"level":"info","msg":"[]","time":"2020-04-17T00:33:11+07:00"}
+{"level":"info","msg":"[kjdsjkdsjkdsjk]","time":"2020-04-17T00:33:22+07:00"}
+{"level":"info","msg":"Loading env","time":"2020-04-17T00:33:54+07:00"}
+{"level":"info","msg":"Loading env","time":"2020-04-17T00:39:06+07:00"}
+{"level":"info","msg":"\u003cnil\u003e","time":"2020-04-17T00:39:30+07:00"}
+{"level":"info","msg":"Loading env","time":"2020-04-17T00:40:04+07:00"}
+{"level":"info","msg":"{akjskjajsk}","time":"2020-04-17T00:40:06+07:00"}
+{"level":"info","msg":"Loading env","time":"2020-04-17T00:44:44+07:00"}
+{"level":"info","msg":"Loading env","time":"2020-04-17T00:46:24+07:00"}
+{"level":"info","msg":"Loading env","time":"2020-04-17T00:48:53+07:00"}
+{"level":"info","msg":"Loading env","time":"2020-04-17T00:50:15+07:00"}
+{"level":"info","msg":"Loading env","time":"2020-04-17T03:29:59+07:00"}
+{"level":"fatal","msg":"Failed to start client: %vlisten tcp 127.0.0.1:3000: bind: address already in use","time":"2020-04-17T03:29:59+07:00"}
+{"level":"info","msg":"Loading env","time":"2020-04-17T03:30:12+07:00"}
+{"level":"info","msg":"Loading env","time":"2020-04-17T03:36:50+07:00"}
+{"level":"info","msg":"Loading env","time":"2020-04-17T04:32:15+07:00"}
+{"level":"info","msg":"Loading env","time":"2020-04-17T04:42:19+07:00"}
+{"level":"info","msg":"Loading env","time":"2020-04-17T04:45:13+07:00"}
+{"level":"info","msg":":8100","time":"2020-04-17T04:45:13+07:00"}
+{"level":"info","msg":"Loading env","time":"2020-04-17T04:45:47+07:00"}
+{"level":"info","msg":":8100","time":"2020-04-17T04:45:47+07:00"}
+{"level":"info","msg":"Loading env","time":"2020-04-17T04:46:45+07:00"}
+{"level":"info","msg":":8100","time":"2020-04-17T04:46:45+07:00"}
+{"level":"info","msg":"\u003cnil\u003e","time":"2020-04-17T04:46:45+07:00"}
+{"level":"info","msg":"\u0026{0xc00006b8c0 0x1173750 :8100 {passthrough  :8100} :8100 {\u003cnil\u003e \u003cnil\u003e [] [] \u003cnil\u003e \u003cnil\u003e {{1000000000 1.6 0.2 120000000000}} false true 0 \u003cnil\u003e  {grpc-go/1.28.1 0x160ca10 false [] \u003cnil\u003e \u003cnil\u003e {0 0 false} \u003cnil\u003e 0 0 32768 32768 0 \u003cnil\u003e} [] \u003cnil\u003e 0 false true false \u003cnil\u003e \u003cnil\u003e \u003cnil\u003e \u003cnil\u003e 0x160f2b0 []} 0xc00000ff00 {\u003cnil\u003e \u003cnil\u003e 0x160ca10 0 {passthrough  :8100}} 0xc000360ea0 {{0 0} 0 0 0 0} 0xc00006f2c0 0xc00027e6e0 map[0xc0002adb80:{}] {0 0 false} pick_first 0xc00006b9c0 {\u003cnil\u003e} 0xc00000fee0 0 0xc0000250c0}","time":"2020-04-17T04:46:45+07:00"}
+{"level":"info","msg":"Loading env","time":"2020-04-17T04:47:15+07:00"}
+{"level":"info","msg":":8100","time":"2020-04-17T04:47:15+07:00"}
+{"level":"info","msg":"\u0026{0xc00034a880 0x1173750 :8100 {passthrough  :8100} :8100 {\u003cnil\u003e \u003cnil\u003e [] [] \u003cnil\u003e \u003cnil\u003e {{1000000000 1.6 0.2 120000000000}} false true 0 \u003cnil\u003e  {grpc-go/1.28.1 0x160ca10 false [] \u003cnil\u003e \u003cnil\u003e {0 0 false} \u003cnil\u003e 0 0 32768 32768 0 \u003cnil\u003e} [] \u003cnil\u003e 0 false true false \u003cnil\u003e \u003cnil\u003e \u003cnil\u003e \u003cnil\u003e 0x160f2b0 []} 0xc00035c660 {\u003cnil\u003e \u003cnil\u003e 0x160ca10 0 {passthrough  :8100}} 0xc000364270 {{0 0} 0 0 0 0} 0xc0003506c0 0xc0000c5630 map[0xc0002d4dc0:{}] {0 0 false} pick_first 0xc00034a980 {\u003cnil\u003e} 0xc00035c640 0 0xc0002a89e0}","time":"2020-04-17T04:47:15+07:00"}
+{"level":"info","msg":"Loading env","time":"2020-04-17T04:47:43+07:00"}
+{"level":"info","msg":":8100","time":"2020-04-17T04:47:43+07:00"}
+{"level":"info","msg":"Loading env","time":"2020-04-17T04:47:59+07:00"}
+{"level":"info","msg":":8100","time":"2020-04-17T04:47:59+07:00"}
+{"level":"info","msg":"Loading env","time":"2020-04-17T04:49:18+07:00"}
+{"level":"info","msg":":8100","time":"2020-04-17T04:49:18+07:00"}
+{"level":"info","msg":"Starting Client Service","time":"2020-04-17T04:49:18+07:00"}
+{"level":"info","msg":"Loading env","time":"2020-04-17T04:56:12+07:00"}
+{"level":"info","msg":":8100","time":"2020-04-17T04:56:12+07:00"}
+{"level":"info","msg":"Starting Client Service","time":"2020-04-17T04:56:12+07:00"}
+{"level":"info","msg":"Loading env","time":"2020-04-17T05:39:25+07:00"}
+{"level":"info","msg":":8100","time":"2020-04-17T05:39:25+07:00"}
+{"level":"info","msg":"Starting Client Service","time":"2020-04-17T05:39:25+07:00"}
+{"level":"info","msg":"Loading env","time":"2020-04-17T07:29:23+07:00"}
+{"level":"info","msg":":8100","time":"2020-04-17T07:29:23+07:00"}
+{"level":"info","msg":"Starting Client Service","time":"2020-04-17T07:29:23+07:00"}
+{"level":"info","msg":"Loading env","time":"2020-04-17T09:01:36+07:00"}
+{"level":"info","msg":":8100","time":"2020-04-17T09:01:36+07:00"}
+{"level":"info","msg":"Starting Client Service","time":"2020-04-17T09:01:36+07:00"}
+{"level":"info","msg":"Loading env","time":"2020-04-17T09:58:57+07:00"}
+{"level":"info","msg":":8100","time":"2020-04-17T09:58:57+07:00"}
+{"level":"info","msg":"Starting Client Service","time":"2020-04-17T09:58:57+07:00"}
+{"level":"info","msg":"Loading env","time":"2020-04-17T11:40:06+07:00"}
+{"level":"info","msg":":8100","time":"2020-04-17T11:40:06+07:00"}
+{"level":"info","msg":"Starting Client Service","time":"2020-04-17T11:40:06+07:00"}
+{"level":"info","msg":"Loading env","time":"2020-04-28T09:24:36+07:00"}
+{"level":"info","msg":":8100","time":"2020-04-28T09:24:36+07:00"}
+{"level":"info","msg":"Starting Client Service","time":"2020-04-28T09:24:36+07:00"}

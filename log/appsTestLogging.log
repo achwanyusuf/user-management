@@ -1,0 +1,240 @@
+{"level":"info","msg":"Testing hash","time":"2020-04-16T17:34:09+07:00"}
+{"level":"info","msg":"Generating Hash","time":"2020-04-16T17:34:09+07:00"}
+{"level":"info","msg":"Hash is generated","time":"2020-04-16T17:34:09+07:00"}
+{"level":"info","msg":"Testing hash","time":"2020-04-16T17:35:37+07:00"}
+{"level":"info","msg":"Generating Hash","time":"2020-04-16T17:35:37+07:00"}
+{"level":"info","msg":"Hash is generated","time":"2020-04-16T17:35:37+07:00"}
+{"level":"info","msg":"Testing hash","time":"2020-04-16T17:35:48+07:00"}
+{"level":"info","msg":"Generating Hash","time":"2020-04-16T17:35:48+07:00"}
+{"level":"info","msg":"Hash is generated","time":"2020-04-16T17:35:48+07:00"}
+{"level":"info","msg":"Testing hash","time":"2020-04-16T17:37:55+07:00"}
+{"level":"info","msg":"Generating Hash","time":"2020-04-16T17:37:55+07:00"}
+{"level":"info","msg":"Hash is generated","time":"2020-04-16T17:37:55+07:00"}
+{"hash":"$2a$04$Zf3eMfnvIU5b61s8DN0miOIGVig0n7VxcuYnBWIqMB1I41JDpzlUG","level":"info","msg":"Hash is Generated","time":"2020-04-16T17:37:55+07:00"}
+{"level":"info","msg":"Running All Cases","time":"2020-04-16T18:34:54+07:00"}
+{"level":"info","msg":"Testing hash","time":"2020-04-16T18:34:54+07:00"}
+{"level":"info","msg":"Generating Hash","time":"2020-04-16T18:34:54+07:00"}
+{"level":"info","msg":"Hash is generated","time":"2020-04-16T18:34:54+07:00"}
+{"hash":"$2a$04$rSnRGeLmeRVx4N64xuoP5uygIqs/3owvhRNAVu1eAyqA10fgNaQ0W","level":"info","msg":"Hash is Generated","time":"2020-04-16T18:34:54+07:00"}
+{"level":"info","msg":"Validating hash True","time":"2020-04-16T18:34:54+07:00"}
+{"level":"info","msg":"Validating Hash","time":"2020-04-16T18:34:54+07:00"}
+{"level":"info","msg":"Hash is validated","time":"2020-04-16T18:34:54+07:00"}
+{"level":"info","msg":"Validation Result","result":true,"time":"2020-04-16T18:34:54+07:00"}
+{"level":"info","msg":"Validating hash False","time":"2020-04-16T18:34:54+07:00"}
+{"level":"info","msg":"Validating Hash","time":"2020-04-16T18:34:54+07:00"}
+{"level":"fatal","msg":"Has is not Validated","time":"2020-04-16T18:34:54+07:00"}
+{"level":"info","msg":"Running All Cases","time":"2020-04-16T18:35:52+07:00"}
+{"level":"info","msg":"Testing hash","time":"2020-04-16T18:35:52+07:00"}
+{"level":"info","msg":"Generating Hash","time":"2020-04-16T18:35:52+07:00"}
+{"level":"info","msg":"Hash is generated","time":"2020-04-16T18:35:52+07:00"}
+{"hash":"$2a$04$uu/TYq0fYe7O/iA58Ynwce6NEFXPsM4Q7HUKOTkhr7YtByrl2BqFi","level":"info","msg":"Hash is Generated","time":"2020-04-16T18:35:52+07:00"}
+{"level":"info","msg":"Validating hash True","time":"2020-04-16T18:35:52+07:00"}
+{"level":"info","msg":"Validating Hash","time":"2020-04-16T18:35:52+07:00"}
+{"level":"info","msg":"Hash is validated","time":"2020-04-16T18:35:52+07:00"}
+{"level":"info","msg":"Validation Result","result":true,"time":"2020-04-16T18:35:52+07:00"}
+{"level":"info","msg":"Validating hash False","time":"2020-04-16T18:35:52+07:00"}
+{"level":"info","msg":"Validating Hash","time":"2020-04-16T18:35:52+07:00"}
+{"level":"fatal","msg":"Has is not Validated","time":"2020-04-16T18:35:52+07:00"}
+{"level":"info","msg":"Running All Cases","time":"2020-04-16T18:36:38+07:00"}
+{"level":"info","msg":"Testing hash","time":"2020-04-16T18:36:38+07:00"}
+{"level":"info","msg":"Generating Hash","time":"2020-04-16T18:36:38+07:00"}
+{"level":"info","msg":"Hash is generated","time":"2020-04-16T18:36:38+07:00"}
+{"hash":"$2a$04$8CPHuE1CkHSoOLgIdB0B9Oi02ItOsgYDls0AmtwL6ivH4jS8aFCxe","level":"info","msg":"Hash is Generated","time":"2020-04-16T18:36:38+07:00"}
+{"level":"info","msg":"Validating hash True","time":"2020-04-16T18:36:38+07:00"}
+{"level":"info","msg":"Validating Hash","time":"2020-04-16T18:36:38+07:00"}
+{"level":"info","msg":"Hash is validated","time":"2020-04-16T18:36:38+07:00"}
+{"level":"info","msg":"Validation Result","result":true,"time":"2020-04-16T18:36:38+07:00"}
+{"level":"info","msg":"Validating hash False","time":"2020-04-16T18:36:38+07:00"}
+{"level":"info","msg":"Validating Hash","time":"2020-04-16T18:36:38+07:00"}
+{"level":"fatal","msg":"Has is not Validated","time":"2020-04-16T18:36:38+07:00"}
+{"level":"info","msg":"Running All Cases","time":"2020-04-16T18:37:43+07:00"}
+{"level":"info","msg":"Testing hash","time":"2020-04-16T18:37:43+07:00"}
+{"level":"info","msg":"Generating Hash","time":"2020-04-16T18:37:43+07:00"}
+{"level":"info","msg":"Hash is generated","time":"2020-04-16T18:37:43+07:00"}
+{"hash":"$2a$04$DFLLJ7fLsZUThp.UjJeVMulfvIMN/y9OS7AtJ9ynK2zkcMeustKty","level":"info","msg":"Hash is Generated","time":"2020-04-16T18:37:43+07:00"}
+{"level":"info","msg":"Validating hash True","time":"2020-04-16T18:37:43+07:00"}
+{"level":"info","msg":"Validating Hash","time":"2020-04-16T18:37:43+07:00"}
+{"level":"info","msg":"Hash is validated","time":"2020-04-16T18:37:43+07:00"}
+{"level":"info","msg":"Validation Result","result":true,"time":"2020-04-16T18:37:43+07:00"}
+{"level":"info","msg":"Validating hash False","time":"2020-04-16T18:37:43+07:00"}
+{"level":"info","msg":"Validating Hash","time":"2020-04-16T18:37:43+07:00"}
+{"level":"fatal","msg":"Has is not Validated","time":"2020-04-16T18:37:43+07:00"}
+{"level":"info","msg":"Running All Cases","time":"2020-04-16T18:38:19+07:00"}
+{"level":"info","msg":"Testing hash","time":"2020-04-16T18:38:19+07:00"}
+{"level":"info","msg":"Generating Hash","time":"2020-04-16T18:38:19+07:00"}
+{"level":"info","msg":"Hash is generated","time":"2020-04-16T18:38:19+07:00"}
+{"hash":"$2a$04$6JiLcycrrXoaTNXhnwJD6uOcuKUUaTqW34R0ucjRxvkqptkhKQCO6","level":"info","msg":"Hash is Generated","time":"2020-04-16T18:38:19+07:00"}
+{"level":"info","msg":"Validating hash True","time":"2020-04-16T18:38:19+07:00"}
+{"level":"info","msg":"Validating Hash","time":"2020-04-16T18:38:19+07:00"}
+{"level":"info","msg":"Hash is validated","time":"2020-04-16T18:38:19+07:00"}
+{"level":"info","msg":"Validation Result","result":true,"time":"2020-04-16T18:38:19+07:00"}
+{"level":"info","msg":"Validating hash False","time":"2020-04-16T18:38:19+07:00"}
+{"level":"info","msg":"Validating Hash","time":"2020-04-16T18:38:19+07:00"}
+{"level":"fatal","msg":"Has is not Validated","time":"2020-04-16T18:38:19+07:00"}
+{"level":"info","msg":"Running All Cases","time":"2020-04-16T18:46:55+07:00"}
+{"level":"info","msg":"Testing hash","time":"2020-04-16T18:46:55+07:00"}
+{"level":"info","msg":"Generating Hash","time":"2020-04-16T18:46:55+07:00"}
+{"level":"info","msg":"Hash is generated","time":"2020-04-16T18:46:55+07:00"}
+{"hash":"$2a$04$OmmkT3D1s0mLrN8IjtKXsuVQpkeQTIXYiOF72vb/wrm.nZBIkgiq.","level":"info","msg":"Hash is Generated","time":"2020-04-16T18:46:55+07:00"}
+{"level":"info","msg":"Validating hash True","time":"2020-04-16T18:46:55+07:00"}
+{"level":"info","msg":"Validating Hash","time":"2020-04-16T18:46:55+07:00"}
+{"level":"info","msg":"Hash is validated","time":"2020-04-16T18:46:55+07:00"}
+{"level":"info","msg":"Validation Result","result":true,"time":"2020-04-16T18:46:55+07:00"}
+{"level":"info","msg":"Validating hash False","time":"2020-04-16T18:46:55+07:00"}
+{"level":"info","msg":"Validating Hash","time":"2020-04-16T18:46:55+07:00"}
+{"level":"error","msg":"Has is not Validated","time":"2020-04-16T18:46:55+07:00"}
+{"level":"info","msg":"Validation Result","result":false,"time":"2020-04-16T18:46:55+07:00"}
+{"level":"info","msg":"Testing is completed. Check the error!","time":"2020-04-16T18:46:55+07:00"}
+{"level":"info","msg":"Running All Cases","time":"2020-04-17T02:50:57+07:00"}
+{"level":"info","msg":"Testing hash","time":"2020-04-17T02:50:57+07:00"}
+{"level":"info","msg":"Generating Hash","time":"2020-04-17T02:50:57+07:00"}
+{"level":"info","msg":"Hash is generated","time":"2020-04-17T02:50:57+07:00"}
+{"hash":"$2a$04$W1FojkmuDCxKWCiqAlmC1OQoFIVbBZ0A4BM8k3JsE8dFmsxYreaFi","level":"info","msg":"Hash is Generated","time":"2020-04-17T02:50:57+07:00"}
+{"level":"info","msg":"Validating hash True","time":"2020-04-17T02:50:57+07:00"}
+{"level":"info","msg":"Validating Hash","time":"2020-04-17T02:50:57+07:00"}
+{"level":"info","msg":"Hash is validated","time":"2020-04-17T02:50:57+07:00"}
+{"level":"info","msg":"Validation Result","result":true,"time":"2020-04-17T02:50:57+07:00"}
+{"level":"info","msg":"Validating hash False","time":"2020-04-17T02:50:57+07:00"}
+{"level":"info","msg":"Validating Hash","time":"2020-04-17T02:50:57+07:00"}
+{"level":"error","msg":"Has is not Validated","time":"2020-04-17T02:50:57+07:00"}
+{"level":"info","msg":"Validation Result","result":false,"time":"2020-04-17T02:50:57+07:00"}
+{"level":"info","msg":"Testing generate Token","time":"2020-04-17T02:50:57+07:00"}
+{"level":"info","msg":"Loading env","time":"2020-04-17T02:50:57+07:00"}
+{"level":"info","msg":"Token is generated %veyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImFjaHdhbi55dXN1ZkBnbWFpbC5jb20ifQ.G1qjI5UaIltqk4Ag3K7kT0thYMjfCO6LBUcB18nNMUo","time":"2020-04-17T02:50:57+07:00"}
+{"level":"info","msg":"Testing is completed. Check the error!","time":"2020-04-17T02:50:57+07:00"}
+{"level":"info","msg":"Running All Cases","time":"2020-04-17T02:51:12+07:00"}
+{"level":"info","msg":"Testing hash","time":"2020-04-17T02:51:12+07:00"}
+{"level":"info","msg":"Generating Hash","time":"2020-04-17T02:51:12+07:00"}
+{"level":"info","msg":"Hash is generated","time":"2020-04-17T02:51:12+07:00"}
+{"hash":"$2a$04$.uupmaKSeBEN6ezrqq42EO0jF.pwmVIWc98PvnhIIt3iJorHjm8aK","level":"info","msg":"Hash is Generated","time":"2020-04-17T02:51:12+07:00"}
+{"level":"info","msg":"Validating hash True","time":"2020-04-17T02:51:12+07:00"}
+{"level":"info","msg":"Validating Hash","time":"2020-04-17T02:51:12+07:00"}
+{"level":"info","msg":"Hash is validated","time":"2020-04-17T02:51:12+07:00"}
+{"level":"info","msg":"Validation Result","result":true,"time":"2020-04-17T02:51:12+07:00"}
+{"level":"info","msg":"Validating hash False","time":"2020-04-17T02:51:12+07:00"}
+{"level":"info","msg":"Validating Hash","time":"2020-04-17T02:51:12+07:00"}
+{"level":"error","msg":"Has is not Validated","time":"2020-04-17T02:51:12+07:00"}
+{"level":"info","msg":"Validation Result","result":false,"time":"2020-04-17T02:51:12+07:00"}
+{"level":"info","msg":"Testing generate Token","time":"2020-04-17T02:51:12+07:00"}
+{"level":"info","msg":"Loading env","time":"2020-04-17T02:51:12+07:00"}
+{"level":"info","msg":"Token is generated %veyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImFjaHdhbi55dXN1ZkBnbWFpbC5jb20ifQ.G1qjI5UaIltqk4Ag3K7kT0thYMjfCO6LBUcB18nNMUo","time":"2020-04-17T02:51:12+07:00"}
+{"level":"info","msg":"Testing is completed. Check the error!","time":"2020-04-17T02:51:12+07:00"}
+{"level":"info","msg":"Running All Cases","time":"2020-04-17T02:52:08+07:00"}
+{"level":"info","msg":"Testing hash","time":"2020-04-17T02:52:08+07:00"}
+{"level":"info","msg":"Generating Hash","time":"2020-04-17T02:52:08+07:00"}
+{"level":"info","msg":"Hash is generated","time":"2020-04-17T02:52:08+07:00"}
+{"hash":"$2a$04$4cwLDdsgnLn95pz0B0PpUep.LDebfA.WrbJaqR32Ifxq/4n/VVedW","level":"info","msg":"Hash is Generated","time":"2020-04-17T02:52:08+07:00"}
+{"level":"info","msg":"Validating hash True","time":"2020-04-17T02:52:08+07:00"}
+{"level":"info","msg":"Validating Hash","time":"2020-04-17T02:52:08+07:00"}
+{"level":"info","msg":"Hash is validated","time":"2020-04-17T02:52:08+07:00"}
+{"level":"info","msg":"Validation Result","result":true,"time":"2020-04-17T02:52:08+07:00"}
+{"level":"info","msg":"Validating hash False","time":"2020-04-17T02:52:08+07:00"}
+{"level":"info","msg":"Validating Hash","time":"2020-04-17T02:52:08+07:00"}
+{"level":"error","msg":"Has is not Validated","time":"2020-04-17T02:52:08+07:00"}
+{"level":"info","msg":"Validation Result","result":false,"time":"2020-04-17T02:52:08+07:00"}
+{"level":"info","msg":"Testing generate Token","time":"2020-04-17T02:52:08+07:00"}
+{"level":"info","msg":"Loading env","time":"2020-04-17T02:52:08+07:00"}
+{"level":"info","msg":"Token is generatedeyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImFjaHdhbi55dXN1ZkBnbWFpbC5jb20ifQ.G1qjI5UaIltqk4Ag3K7kT0thYMjfCO6LBUcB18nNMUo","time":"2020-04-17T02:52:08+07:00"}
+{"level":"info","msg":"Testing is completed. Check the error!","time":"2020-04-17T02:52:08+07:00"}
+{"level":"info","msg":"Running All Cases","time":"2020-04-17T02:59:26+07:00"}
+{"level":"info","msg":"Testing hash","time":"2020-04-17T02:59:26+07:00"}
+{"level":"info","msg":"Generating Hash","time":"2020-04-17T02:59:26+07:00"}
+{"level":"info","msg":"Hash is generated","time":"2020-04-17T02:59:26+07:00"}
+{"hash":"$2a$04$jp4mtIzAPlEa9xMJoCnH..1rRryRvYrzSEGTWsRAKhaNAW5FsYDyi","level":"info","msg":"Hash is Generated","time":"2020-04-17T02:59:26+07:00"}
+{"level":"info","msg":"Validating hash True","time":"2020-04-17T02:59:26+07:00"}
+{"level":"info","msg":"Validating Hash","time":"2020-04-17T02:59:26+07:00"}
+{"level":"info","msg":"Hash is validated","time":"2020-04-17T02:59:26+07:00"}
+{"level":"info","msg":"Validation Result","result":true,"time":"2020-04-17T02:59:26+07:00"}
+{"level":"info","msg":"Validating hash False","time":"2020-04-17T02:59:26+07:00"}
+{"level":"info","msg":"Validating Hash","time":"2020-04-17T02:59:26+07:00"}
+{"level":"error","msg":"Has is not Validated","time":"2020-04-17T02:59:26+07:00"}
+{"level":"info","msg":"Validation Result","result":false,"time":"2020-04-17T02:59:26+07:00"}
+{"level":"info","msg":"Testing generate Token","time":"2020-04-17T02:59:26+07:00"}
+{"level":"info","msg":"Loading env","time":"2020-04-17T02:59:26+07:00"}
+{"level":"info","msg":"Token is generated eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImFjaHdhbi55dXN1ZkBnbWFpbC5jb20iLCJleHAiOjE1ODcwNjcxNjd9.Jl-vmhas7Jeo_dYZWvsnADPrphjy3MDBdOB8bbjLzEM","time":"2020-04-17T02:59:26+07:00"}
+{"level":"info","msg":"Testing is completed. Check the error!","time":"2020-04-17T02:59:26+07:00"}
+{"level":"info","msg":"Running All Cases","time":"2020-04-17T02:59:36+07:00"}
+{"level":"info","msg":"Testing hash","time":"2020-04-17T02:59:36+07:00"}
+{"level":"info","msg":"Generating Hash","time":"2020-04-17T02:59:36+07:00"}
+{"level":"info","msg":"Hash is generated","time":"2020-04-17T02:59:36+07:00"}
+{"hash":"$2a$04$DpkklGsII5maeExwqlwLX.m6DbFO0Wr.aa/b014b.B.wuxhXUcqBK","level":"info","msg":"Hash is Generated","time":"2020-04-17T02:59:36+07:00"}
+{"level":"info","msg":"Validating hash True","time":"2020-04-17T02:59:36+07:00"}
+{"level":"info","msg":"Validating Hash","time":"2020-04-17T02:59:36+07:00"}
+{"level":"info","msg":"Hash is validated","time":"2020-04-17T02:59:36+07:00"}
+{"level":"info","msg":"Validation Result","result":true,"time":"2020-04-17T02:59:36+07:00"}
+{"level":"info","msg":"Validating hash False","time":"2020-04-17T02:59:36+07:00"}
+{"level":"info","msg":"Validating Hash","time":"2020-04-17T02:59:36+07:00"}
+{"level":"error","msg":"Has is not Validated","time":"2020-04-17T02:59:36+07:00"}
+{"level":"info","msg":"Validation Result","result":false,"time":"2020-04-17T02:59:36+07:00"}
+{"level":"info","msg":"Testing generate Token","time":"2020-04-17T02:59:36+07:00"}
+{"level":"info","msg":"Loading env","time":"2020-04-17T02:59:36+07:00"}
+{"level":"info","msg":"Token is generated eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImFjaHdhbi55dXN1ZkBnbWFpbC5jb20iLCJleHAiOjE1ODcwNjcxNzd9.p1O_njrGukcklekYyz_3P-k1NvQRmhHcn8_lq-Xxz8I","time":"2020-04-17T02:59:36+07:00"}
+{"level":"info","msg":"Testing is completed. Check the error!","time":"2020-04-17T02:59:36+07:00"}
+{"level":"info","msg":"Running All Cases","time":"2020-04-17T02:59:58+07:00"}
+{"level":"info","msg":"Testing hash","time":"2020-04-17T02:59:58+07:00"}
+{"level":"info","msg":"Generating Hash","time":"2020-04-17T02:59:58+07:00"}
+{"level":"info","msg":"Hash is generated","time":"2020-04-17T02:59:58+07:00"}
+{"hash":"$2a$04$t7ggmWRQFGLERrgf7Zwj.udcenGwAi/2/8MQG1irEZ/4w9mjbqbVW","level":"info","msg":"Hash is Generated","time":"2020-04-17T02:59:58+07:00"}
+{"level":"info","msg":"Validating hash True","time":"2020-04-17T02:59:58+07:00"}
+{"level":"info","msg":"Validating Hash","time":"2020-04-17T02:59:58+07:00"}
+{"level":"info","msg":"Hash is validated","time":"2020-04-17T02:59:58+07:00"}
+{"level":"info","msg":"Validation Result","result":true,"time":"2020-04-17T02:59:58+07:00"}
+{"level":"info","msg":"Validating hash False","time":"2020-04-17T02:59:58+07:00"}
+{"level":"info","msg":"Validating Hash","time":"2020-04-17T02:59:58+07:00"}
+{"level":"error","msg":"Has is not Validated","time":"2020-04-17T02:59:58+07:00"}
+{"level":"info","msg":"Validation Result","result":false,"time":"2020-04-17T02:59:58+07:00"}
+{"level":"info","msg":"Testing generate Token","time":"2020-04-17T02:59:58+07:00"}
+{"level":"info","msg":"Loading env","time":"2020-04-17T02:59:58+07:00"}
+{"level":"info","msg":"Token is generated eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImFjaHdhbi55dXN1ZkBnbWFpbC5jb20ifQ.G1qjI5UaIltqk4Ag3K7kT0thYMjfCO6LBUcB18nNMUo","time":"2020-04-17T02:59:58+07:00"}
+{"level":"info","msg":"Testing is completed. Check the error!","time":"2020-04-17T02:59:58+07:00"}
+{"level":"info","msg":"Running All Cases","time":"2020-04-17T03:00:07+07:00"}
+{"level":"info","msg":"Testing hash","time":"2020-04-17T03:00:07+07:00"}
+{"level":"info","msg":"Generating Hash","time":"2020-04-17T03:00:07+07:00"}
+{"level":"info","msg":"Hash is generated","time":"2020-04-17T03:00:07+07:00"}
+{"hash":"$2a$04$pT6kTlUsKR4NL5SrvKQW6uIsGgcbjYpQ54nscmK6nH4e5..wmPPg2","level":"info","msg":"Hash is Generated","time":"2020-04-17T03:00:07+07:00"}
+{"level":"info","msg":"Validating hash True","time":"2020-04-17T03:00:07+07:00"}
+{"level":"info","msg":"Validating Hash","time":"2020-04-17T03:00:07+07:00"}
+{"level":"info","msg":"Hash is validated","time":"2020-04-17T03:00:07+07:00"}
+{"level":"info","msg":"Validation Result","result":true,"time":"2020-04-17T03:00:07+07:00"}
+{"level":"info","msg":"Validating hash False","time":"2020-04-17T03:00:07+07:00"}
+{"level":"info","msg":"Validating Hash","time":"2020-04-17T03:00:07+07:00"}
+{"level":"error","msg":"Has is not Validated","time":"2020-04-17T03:00:07+07:00"}
+{"level":"info","msg":"Validation Result","result":false,"time":"2020-04-17T03:00:07+07:00"}
+{"level":"info","msg":"Testing generate Token","time":"2020-04-17T03:00:07+07:00"}
+{"level":"info","msg":"Loading env","time":"2020-04-17T03:00:07+07:00"}
+{"level":"info","msg":"Token is generated eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImFjaHdhbi55dXN1ZkBnbWFpbC5jb20ifQ.G1qjI5UaIltqk4Ag3K7kT0thYMjfCO6LBUcB18nNMUo","time":"2020-04-17T03:00:07+07:00"}
+{"level":"info","msg":"Testing is completed. Check the error!","time":"2020-04-17T03:00:07+07:00"}
+{"level":"info","msg":"Running All Cases","time":"2020-04-17T03:00:17+07:00"}
+{"level":"info","msg":"Testing hash","time":"2020-04-17T03:00:17+07:00"}
+{"level":"info","msg":"Generating Hash","time":"2020-04-17T03:00:17+07:00"}
+{"level":"info","msg":"Hash is generated","time":"2020-04-17T03:00:17+07:00"}
+{"hash":"$2a$04$YeVKMkN9e/BmGOPVtje5AOYT/dolcD06yeGyyxtEROcnu.3.1j2jO","level":"info","msg":"Hash is Generated","time":"2020-04-17T03:00:17+07:00"}
+{"level":"info","msg":"Validating hash True","time":"2020-04-17T03:00:17+07:00"}
+{"level":"info","msg":"Validating Hash","time":"2020-04-17T03:00:17+07:00"}
+{"level":"info","msg":"Hash is validated","time":"2020-04-17T03:00:17+07:00"}
+{"level":"info","msg":"Validation Result","result":true,"time":"2020-04-17T03:00:17+07:00"}
+{"level":"info","msg":"Validating hash False","time":"2020-04-17T03:00:17+07:00"}
+{"level":"info","msg":"Validating Hash","time":"2020-04-17T03:00:17+07:00"}
+{"level":"error","msg":"Has is not Validated","time":"2020-04-17T03:00:17+07:00"}
+{"level":"info","msg":"Validation Result","result":false,"time":"2020-04-17T03:00:17+07:00"}
+{"level":"info","msg":"Testing generate Token","time":"2020-04-17T03:00:17+07:00"}
+{"level":"info","msg":"Loading env","time":"2020-04-17T03:00:17+07:00"}
+{"level":"info","msg":"Token is generated eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImFjaHdhbi55dXN1QGdtYWlsLmNvbSJ9.f1OR1pYzMVTgZm7vEBdbWbh8N0AlfAAmWaPriLJirL4","time":"2020-04-17T03:00:17+07:00"}
+{"level":"info","msg":"Testing is completed. Check the error!","time":"2020-04-17T03:00:17+07:00"}
+{"level":"info","msg":"Running All Cases","time":"2020-04-17T03:00:29+07:00"}
+{"level":"info","msg":"Testing hash","time":"2020-04-17T03:00:29+07:00"}
+{"level":"info","msg":"Generating Hash","time":"2020-04-17T03:00:29+07:00"}
+{"level":"info","msg":"Hash is generated","time":"2020-04-17T03:00:29+07:00"}
+{"hash":"$2a$04$Wt.vs5v7kbmglh7THw8ECORBx2Pptx58G3EsMZxgQdMhfFwXgZtRa","level":"info","msg":"Hash is Generated","time":"2020-04-17T03:00:29+07:00"}
+{"level":"info","msg":"Validating hash True","time":"2020-04-17T03:00:29+07:00"}
+{"level":"info","msg":"Validating Hash","time":"2020-04-17T03:00:29+07:00"}
+{"level":"info","msg":"Hash is validated","time":"2020-04-17T03:00:29+07:00"}
+{"level":"info","msg":"Validation Result","result":true,"time":"2020-04-17T03:00:29+07:00"}
+{"level":"info","msg":"Validating hash False","time":"2020-04-17T03:00:29+07:00"}
+{"level":"info","msg":"Validating Hash","time":"2020-04-17T03:00:29+07:00"}
+{"level":"error","msg":"Has is not Validated","time":"2020-04-17T03:00:29+07:00"}
+{"level":"info","msg":"Validation Result","result":false,"time":"2020-04-17T03:00:29+07:00"}
+{"level":"info","msg":"Testing generate Token","time":"2020-04-17T03:00:29+07:00"}
+{"level":"info","msg":"Loading env","time":"2020-04-17T03:00:29+07:00"}
+{"level":"info","msg":"Token is generated eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImFjaHdhbi55dXN1QGdtYWlsLmNvbSJ9.f1OR1pYzMVTgZm7vEBdbWbh8N0AlfAAmWaPriLJirL4","time":"2020-04-17T03:00:29+07:00"}
+{"level":"info","msg":"Testing is completed. Check the error!","time":"2020-04-17T03:00:29+07:00"}
